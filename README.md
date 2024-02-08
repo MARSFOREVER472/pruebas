@@ -1,6 +1,6 @@
 # pruebas
 
-Es un repositorio principal, en donde se creó en Python algunas clases de datos.
+_Es un repositorio principal, en donde se creó en Python algunas clases de datos._
 
 Entre ellas se encuentran:
 
