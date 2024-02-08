@@ -2,7 +2,7 @@
 
 _Es un repositorio principal, en donde se creó en Python algunas clases de datos._
 
-Entre ellas se encuentran:
+_Entre ellas se encuentran:_
 
 - string: Cadena de caracteres como sentencia.
 - int: Valor numérico en enteros.
