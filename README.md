@@ -12,7 +12,7 @@ _Esto es lo que tengo hasta el momento!_
 
 _Kind regards._
 
-Respuesta final entregado por un código ya creado en Python:
+Para finalizar, adjunto ejemplo de un código ya creado en Python:
 
 ***********BIENVENIDO A ESTA SECCIÓN DE OPERADORES***********
 Vamos a repasar algunas operaciones matemáticas para aplicaciones posibles!
