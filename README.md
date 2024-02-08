@@ -6,7 +6,7 @@ _Entre ellas se encuentran:_
 
 - **string: Cadena de caracteres como sentencia.**
 - **int: Valor numérico en enteros.**
-- float: Valor numérico en decimales.
+- **float: Valor numérico en decimales.**
 
 Esto es lo que tengo hasta el momento!
 
