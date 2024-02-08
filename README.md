@@ -4,7 +4,7 @@ _Es un repositorio principal, en donde se creó en Python algunas clases de dato
 
 _Entre ellas se encuentran:_
 
-- string: Cadena de caracteres como sentencia.
+- **string: Cadena de caracteres como sentencia.**
 - int: Valor numérico en enteros.
 - float: Valor numérico en decimales.
 
