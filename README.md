@@ -10,7 +10,7 @@ _Entre ellas se encuentran:_
 
 _Esto es lo que tengo hasta el momento!_
 
-Kind regards.
+_Kind regards._
 
 Respuesta final entregado por un código ya creado en Python:
 
