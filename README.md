@@ -5,7 +5,7 @@ _Es un repositorio principal, en donde se creó en Python algunas clases de dato
 _Entre ellas se encuentran:_
 
 - **string: Cadena de caracteres como sentencia.**
-- int: Valor numérico en enteros.
+- **int: Valor numérico en enteros.**
 - float: Valor numérico en decimales.
 
 Esto es lo que tengo hasta el momento!
